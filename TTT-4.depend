@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571411131 source:g:\disk 2\code blocks projects\ttt-4\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<unistd.h>
+
